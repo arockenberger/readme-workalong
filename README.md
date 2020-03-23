@@ -1,4 +1,4 @@
-# Materials for a remote work-along on writing REAMDE-files
+# Materials for a remote work-along on writing README-files
 
 ## Background
 - during Covid-19, all courses, workshops, and seminars at the Univeristy of Oslo which are not core teaching have been cancelled.
