@@ -8,7 +8,7 @@
 ## Content
 - the aim is to develop material for a 90min remote, video-call session
 - using the README-template from Cornell University Library
-- and using the accompanying materials from Cornell University Library (see [guide](/guide.md))
+- and using the accompanying materials from Cornell University Library (see [Guide to writing "readme" style documentation](https://data.research.cornell.edu/content/readme))
 - and using a small selection of blog posts and articles that focus on the benefits of README-style metadata for research data
 
 ## Goal
