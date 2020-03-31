@@ -12,7 +12,7 @@
 - and using a small selection of blog posts and articles that focus on the benefits of README-style metadata for research data
 
 ## Goal
-- deliver pilot session in **week 14** (2020-03-30 to 2020-04-03) via Zoom
+- deliver pilot session on 2020-04-02 via Zoom
 
 ## License and Terms of Use
 - the material in this repository is licensed under CC-BY4.0 Creative Commons Attribution 4.0 International license, see [LICENSE](LICENSE.txt)
