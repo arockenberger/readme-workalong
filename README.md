@@ -1,7 +1,7 @@
 # Materials for a remote work-along on writing README-files
 
 ## Background
-- during Covid-19, all courses, workshops, and seminars at the Univeristy of Oslo which are not core teaching have been cancelled.
+- during Covid-19, all courses, workshops, and seminars at the Univeristy of Oslo which are not core teaching have been cancelled or postponed until further notice.
 - the research data management team is working on developing modules that can be taught online
 - writing a README-file together is based on expereinces with code-alongs and work-alongs made with the Carpentry@UiO StudyGroup
 
